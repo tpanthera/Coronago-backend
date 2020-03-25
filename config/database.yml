@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  database: corona_go_development
+  pool: 6
+  timeout: 5000
+  username: housing
+  password: housing
+
+production:
+  adapter: corona_go_development
+  database: corona_go_production
+  pool: 6
+  timeout: 5000
+  username: housing
+  password: housing
