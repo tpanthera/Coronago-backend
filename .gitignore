@@ -19,3 +19,7 @@ tmp/*
 
 .byebug_history
 public/*
+
+.terraform
+.terraform/*
+
